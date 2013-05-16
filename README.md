@@ -12,3 +12,8 @@ Easily summon [Rubygems.org](http://rubygems.org) gem pages from the comfort of 
 Within Alfred:
 
     gem name_of_gem
+
+## TODO
+
+* autocomplete
+* 404 should lead to rubygems search
